@@ -9,5 +9,6 @@
 #--platform=linux/amd64 mysql:8.0.23
 #infiniflow/ragflow:dev
 #portainer/portainer-ce:2.23.0
-mysql:8.0.39
-redis:7.2.4
+#mysql:8.0.39
+#redis:7.2.4
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
