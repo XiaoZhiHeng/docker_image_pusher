@@ -6,6 +6,8 @@
 #xhofe/alist:latest
 
 #支持指定架构
---platform=linux/amd64 mysql:8.0.23
-infiniflow/ragflow:dev
-portainer/portainer-ce:2.23.0
+#--platform=linux/amd64 mysql:8.0.23
+#infiniflow/ragflow:dev
+#portainer/portainer-ce:2.23.0
+mysql:8.0.39
+redis:7.2.4
